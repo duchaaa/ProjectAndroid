@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520166155350",
+    "project_id": "tree-chat-backend",
+    "storage_bucket": "tree-chat-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520166155350:android:8cf3890202a6d7a45bc7f7",
+        "android_client_info": {
+          "package_name": "com.example.treechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsyOlfvbINkVTcjJv-bn8i5GInOo8lRHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

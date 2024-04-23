@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">treechat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="nh_p_otp_g_i_n_i_n_tho_i">Nhập OTP gửi đến điện thoại</string>
+    <string name="otp">OTP</string>
+</resources>
